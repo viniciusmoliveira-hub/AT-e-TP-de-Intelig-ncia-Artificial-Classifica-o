@@ -4,6 +4,6 @@
 
  TP 2 I.A. Classificação : https://colab.research.google.com/drive/1OTdIX6kvwmfi86EcOpef85DAqx3cVloE?usp=sharing
 
- TP 3 I.A. Classificação :
+ TP 3 I.A. Classificação : https://colab.research.google.com/drive/186Iwp4VAT40WFpqZqOwSDOqnFLWUpo80?usp=sharing
 
  AT I.A. Classificação:
